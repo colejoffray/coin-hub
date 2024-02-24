@@ -1,4 +1,4 @@
-#Check out the live version here: https://crypto-coin-hub.netlify.app
+# Check out the live version here: https://crypto-coin-hub.netlify.app
 
 # Getting Started with Create React App
 
